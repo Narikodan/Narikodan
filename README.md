@@ -10,16 +10,7 @@ Experienced in web technologies, Python frameworks, and eager to drive innovatio
 - **Version Control:** Git, GitHub
 - **Cloud Services:** AWS EC2, Pythonanywhere
 
-## Work Experience 💼
 
-### Quest Innovative Solutions Pvt Ltd | April '23 - Nov '23 | Python Fullstack Developer Intern
-
-- Collaborated on designing, implementing, and testing backend functionalities for web applications using Python, Django, and Django Rest Framework.
-- Assisted in creating and optimizing database models, improving query performance by up to 25%.
-- Developed APIs using Django Rest Framework and integrated frontend components.
-- Actively contributed to code quality through reviews, collaborated with front-end developers to improve user experience, efficiently managed the codebase using Git and GitHub.
-
-### MGNREGA Scheme – Gov.Of India | Oct '19 – March '23 | Assistant Engineer (Civil)
 
 ## Projects 🚀
 
