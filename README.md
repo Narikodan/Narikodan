@@ -1,8 +1,8 @@
-# Hi, I'm Vishnu N! 👋
+# Hi there! 👋 I'm Vishnu Narikodan, a passionate self-taught Python developer with a knack for engineering-inspired problem solving. 💻
 
-Passionate self-taught Python developer with a knack for engineering-inspired problem solving. Experienced in web technologies, Python frameworks, and eager to drive innovation through efficient software solutions. Ready to contribute to your projects' success.
+Experienced in web technologies, Python frameworks, and eager to drive innovation through efficient software solutions. Ready to contribute to your projects' success. 🚀
 
-## Skills
+## Skills 🛠️
 
 - **Programming Languages:** Python, JavaScript, HTML, CSS
 - **Database:** PostgreSQL, MySQL, MongoDB
@@ -10,7 +10,7 @@ Passionate self-taught Python developer with a knack for engineering-inspired pr
 - **Version Control:** Git, GitHub
 - **Cloud Services:** AWS EC2, Pythonanywhere
 
-## Work Experience
+## Work Experience 💼
 
 ### Quest Innovative Solutions Pvt Ltd | April '23 - Nov '23 | Python Fullstack Developer Intern
 
@@ -21,9 +21,9 @@ Passionate self-taught Python developer with a knack for engineering-inspired pr
 
 ### MGNREGA Scheme – Gov.Of India | Oct '19 – March '23 | Assistant Engineer (Civil)
 
-## Projects
+## Projects 🚀
 
-### KnowledgeHub (E-Learning Platform)
+### KnowledgeHub (E-Learning Platform) 📚
 
 - Developed an E-Learning web app with fundamental features.
 - Structured content with sections and videos.
@@ -32,7 +32,7 @@ Passionate self-taught Python developer with a knack for engineering-inspired pr
 - Added searching and filter options. Users can find courses uploaded by different teachers.
 - Hosted at [KnowledgeHub](https:/narikodan.github.io/djangoangular)
 
-### Social Media Platform
+### Social Media Platform 🌐
 
 - Dynamic social media web app using Django with user profiles, friend connections, posts, and interactions.
 - Implemented secure user authentication and account management features.
@@ -40,7 +40,7 @@ Passionate self-taught Python developer with a knack for engineering-inspired pr
 - Implemented real-time chat feature using WebSocket technology.
 - Hosted at [Social Media Platform](http://vishnunarikodan.pythonanywhere.com)
 
-### E-commerce
+### E-commerce 🛒
 
 - Fully functional E-commerce website with Django.
 - User authentication, product listings, shopping cart, and secure payments.
@@ -48,7 +48,7 @@ Passionate self-taught Python developer with a knack for engineering-inspired pr
 - Integrated Razorpay for secure payments.
 - Hosted at [E-commerce](http://narikodan.pythonanywhere.com)
 
-### The Specialist
+### The Specialist 💼
 
 - Simple static website designed using HTML, CSS, and JavaScript for a knee-care clinic located in Kannur.
 - Visitors can send messages to the admin via the contact-us section.
